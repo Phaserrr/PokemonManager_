@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Pokemon_Neu">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Pokemon_Neu.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
